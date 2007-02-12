@@ -1,5 +1,5 @@
 Summary:	Convert DTD to XML Schema
-Summary(pl):	Konwertuje DTD do formatu XML Schema
+Summary(pl.UTF-8):   Konwertuje DTD do formatu XML Schema
 Name:		dtd2xs
 Version:	1.4
 Release:	1
@@ -18,9 +18,9 @@ with namespaces to XML Schemas. As an example of Dtd2Xs conversion
 check out DocBook XML Schema generated from XML DocBook DTD 4.2, and
 XSL-FO Schema generated from XSL-FO DTD.
 
-%description -l pl
-Dtd2Xs pozwala na konwersjÍ z≥oøonych, modularyzowanych DTD plikÛw XML
-oraz DTD z przestrzeniami nazw do XML Schemas. Przyk≥adem dzia≥ania
+%description -l pl.UTF-8
+Dtd2Xs pozwala na konwersjƒô z≈Ço≈ºonych, modularyzowanych DTD plik√≥w XML
+oraz DTD z przestrzeniami nazw do XML Schemas. Przyk≈Çadem dzia≈Çania
 Dtd3Xs jest DocBook XML Schema wygenerowany z XML DocBook DTD 4.2 oraz
 XSL-FO Schema wygenerowany z XSL-FO DTD.
 
