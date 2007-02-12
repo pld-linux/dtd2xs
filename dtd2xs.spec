@@ -1,5 +1,5 @@
 Summary:	Convert DTD to XML Schema
-Summary(pl.UTF-8):   Konwertuje DTD do formatu XML Schema
+Summary(pl.UTF-8):	Konwertuje DTD do formatu XML Schema
 Name:		dtd2xs
 Version:	1.4
 Release:	1
